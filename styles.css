@@ -844,7 +844,7 @@ input, select {
     align-items: center;
 }
 .footer {
-  background: #1f2430;
+  background: #ffffff;
   color: #cfcfcf;
   padding: 200px 40px 20px;
   font-family: Arial, sans-serif;
@@ -854,12 +854,14 @@ input, select {
 
 .footer-bottom {
   padding-top: 20px;
+    background: #ffffff;
   text-align: center;
   font-size: medium;
 }
 
 .footer-bottom p {
   font-size: large;
+    background: #ffffff;
 
   margin-bottom: 15px;
 }
