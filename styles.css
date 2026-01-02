@@ -846,19 +846,19 @@ input, select {
 
 .footer {
   display: flex;
-  justify-content: center;   /* horizontal center */
-  align-items: center;
+  justify-content: center;
   padding: 60px 20px;
 }
 
 .footer-content {
-  text-align: center;        /* center text */
+  border: 1.5px solid rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  padding: 40px 30px;
+  text-align: center;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+
 }
-.footer-content {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-}
+
 
 
 
