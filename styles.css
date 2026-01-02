@@ -858,8 +858,9 @@ input, select {
 
 .footer-text {
   margin: 0;                /* remove default uneven margins */
-  font-size: 16px;
+  font-size: 17px;
   color: #1f2937;
+    text-allign: center;
 }
 
 .footer-text a {
