@@ -854,7 +854,7 @@ input, select {
 
 
 .footer-bottom {
-  padding-top: 20px;
+  padding: 20px;
     background: #ffffff;
 border-radius: 24px;
   text-align: center;
@@ -865,8 +865,8 @@ border-radius: 24px;
   font-size: large;
     background: #ffffff;
   border-radius: 24px;
-
-  margin-bottom: 15px;
+padding: 15px;
+  margin: 15px;
 }
 
 
