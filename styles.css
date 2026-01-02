@@ -847,6 +847,7 @@ input, select {
   background: #ffffff;
   color: #cfcfcf;
   padding: 200px 40px 20px;
+      border-radius: 24px;
   font-family: Arial, sans-serif;
   text-align: center;
 }
@@ -855,6 +856,7 @@ input, select {
 .footer-bottom {
   padding-top: 20px;
     background: #ffffff;
+border-radius: 24px;
   text-align: center;
   font-size: medium;
 }
@@ -862,6 +864,7 @@ input, select {
 .footer-bottom p {
   font-size: large;
     background: #ffffff;
+  border-radius: 24px;
 
   margin-bottom: 15px;
 }
